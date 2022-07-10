@@ -27,7 +27,7 @@ global.namalu = 'Namalu' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Jangan Spam Bot.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
 global.yt = 'https://www.youtube.com/channel/UCHdipvk52k43KsPRenGpD0w' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
-global.ig = 'https://instagram.com/iamkizakixd'
+global.ig = 'https://instagram.com/skymoonn_real?igshid=YmMyMTA2M2Y='
 global.gc = 'https://chat.whatsapp.com/GLj5hBI2NQm5ExcMGaa4Mu' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
 global.dana = '085962734007'
 global.gopay = '085962734007'
@@ -36,7 +36,7 @@ global.email = 'Skyxmoon@gmail.com'
 global.region = 'Indonesia'
 global.link = 'nekopoi.care'
 global.sc = 'https://bit.ly/SubscribeFLOB'
-global.packname = '"{\nAuthor: Skyxmoon"\n"Bot Number: 6283185574939"\n"Bot Name: Shirohige - MD"\n"Instagram: @skyxmoon_real"\n}' 
+global.packname = '"{\nAuthor: Skyxmoon"\n"Bot Number: 6283185574939"\n"Bot Name: 𝙁𝙄𝙇𝙊𝘽𝙊𝙏𝙕 - 𝙈𝘿"\n"Instagram: @skyxmoon_real"\n}' 
 global.author = '' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']
