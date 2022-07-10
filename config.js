@@ -17,11 +17,11 @@ global.author = 'Skyxmoon'
 global.pemilik = ['6283862006229'] 
 global.ownernomer = '6283862006229'
 global.ownername = 'Skyxmoon'
-global.botname = 'Shirohige - MD'
+global.botname = '𝙁𝙄𝙇𝙊𝘽𝙊𝙏𝙕 - 𝙈𝘿'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
 global.meki = '6283862006229'
-global.footer = 'Shirohige-MD'
+global.footer = '𝙁𝙄𝙇𝙊𝘽𝙊𝙏𝙕 - 𝙈𝘿'
 //Isi Sesuai Namalu Buat Tambah Tqtq
 global.namalu = 'Namalu' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Jangan Spam Bot.'
@@ -396,7 +396,7 @@ global.ccomannya = `
  » tupai
 `
 global.sewanya =
-'  *» List Sewabot :*\n   _• Sewa Bot 1 Minggu : 7K_\n   _• Sewa Bot 1 Bulan : 15K_\n   _• Sewa Bot 1 Tahun : 30K_'
+'  *» List Sewabot :*\n   _• Sewa Bot 1 Minggu : 5K_\n   _• Sewa Bot 1 Bulan : 8K_\n   _• Sewabot permanen : 12K_'
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
